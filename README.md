@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Delvelopment
 - 🌱 I’m currently learning Artificial Intelligence  
 - 💞️ I’m looking to collaborate on Interesting Projects
-- 📫 How to reach me ...
+- 📫 How to reach me vijayaprabhaappar@gmail.com
 
 <!---
 Vijayaprabha
